@@ -398,6 +398,7 @@ ul.link-section {
     margin-bottom: 10px;
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
+    border-radius: 10px;
 }
 
 .icon-div .img-fluid {
