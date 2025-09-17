@@ -478,3 +478,7 @@ ul.footer-middle a {
 .mobile-number-link a:hover {
     color: #fd7e14;
 }
+
+.icon-div a:hover{
+    background-color: #0dcaf0;
+}
